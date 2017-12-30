@@ -1,0 +1,11 @@
+body {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+p {
+  font-size: 12px;
+}
+
+.title {
+  text-transform: uppercase;
+}
